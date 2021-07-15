@@ -4,8 +4,8 @@ Basic Banking Web Application Designed and Developed by Yogesh Sanjaray.
 GRIP Bank
 
 1)Technologies used :
-    Javascipt                                                                                                                                                      .
-    HTML5                                                                                                                                                          .    CSS3
+    Javascipt                                                                                                                                                      
+    HTML5                                                                                                                                                               CSS3
     ReactJS
     NodeJS
     ExpressJS
